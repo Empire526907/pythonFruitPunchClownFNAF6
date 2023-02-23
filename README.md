@@ -8,6 +8,8 @@ Python, OpenCV, Pillow, numpy, pynput, pywin32, and pytesseract.
 
 Pytesseract is more complicated, you will probably have to install it from here: https://github.com/UB-Mannheim/tesseract/wiki and if you install the 32-bit version, you will need to change "Program Files" to "Program Files (x86)" in line 14 of "main.py"
 
+If you don't understand any of this, probably go watch a Python beginner tutorial or something.
+
 # Setup
 
 This project was created with a 1920x1080p resolution in mind. I have tried to make it detect the current resolution and scale everything to match, but this is untested.
